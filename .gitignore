@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Output from Webpack
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Babel cache
+.babel-cache/
